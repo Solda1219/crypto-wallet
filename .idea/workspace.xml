@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b64720e-9065-4903-af47-41638b54633e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/containers/LandingPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/containers/LandingPage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/containers/LandingPage/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/containers/LandingPage/landing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/icon-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/icon-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/logo.svg" afterDir="false" />
+    </list>
+    <list id="dfc3086a-15f9-4aae-b1f9-dacb36cbe012" name="tempdddd" comment="will be ingore" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="app/components/DepositeActivityTable/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>heroArea</find>
+      <find>whoWeAreArea</find>
+      <find>awesomeFeatureArea</find>
+      <find>featuredArea</find>
+      <find>productScreenShortArea</find>
+      <find>t Has Usef</find>
+      <find>featuredContent</find>
+      <find>FeaturedContent</find>
+      <find>pricingTableWrap</find>
+      <find>.pricingTableWrap</find>
+      <find>footerMenu</find>
+      <find>FooterMenu</find>
+      <find>pricingTableArea</find>
+      <find>whoWeAreContetnt</find>
+      <find>whoWeAreImg</find>
+      <find>heroImage</find>
+      <find>accountArea</find>
+      <find>.accountArea</find>
+      <find>accountImage</find>
+      <find>.profileMenuList</find>
+      <find>js-cookie</find>
+      <find>history.push</find>
+      <find>push</find>
+      <find>depos</find>
+      <find>all-wallet</find>
+      <find>depo</find>
+      <find>submitHandler</find>
+      <find>screen</find>
+      <find>screenshortWrap</find>
+      <find>Who We are</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\REACT\crypto_wallet_product_reactjs\app\containers\SingleWalletActivity</dir>
+      <dir>E:\REACT\crypto_wallet_product_reactjs\app\containers\Settings</dir>
+      <dir>E:\REACT\crypto_wallet_product_reactjs\app\containers</dir>
+      <dir>F:\REACT\crypto_wallet_product_reactjs\app\containers\MyWallet</dir>
+      <dir>F:\REACT\crypto_wallet_product_reactjs\app\components\SubmitIdCard</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/containers/DashboardPage/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/BuyCoin/style.scss" />
+        <option value="$PROJECT_DIR$/app/components/SubmitIdCard/style.scss" />
+        <option value="$PROJECT_DIR$/app/components/AddWallet/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWallet/index.js" />
+        <option value="$PROJECT_DIR$/app/components/BuyCoinByQr/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWalletActivity/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/MyWallet/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWalletActivity/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/RessetPassword/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/MyProfile/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/Profile/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/PhoneVarification/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/Profile/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/EditProfile/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/ActivityLog/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/IdVarification/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/Settings/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/Settings/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/BreadCrumbs/style.scss" />
+        <option value="$PROJECT_DIR$/app/components/Footer/index.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWallet/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWalletDeposite/style.scss" />
+        <option value="$PROJECT_DIR$/app/containers/Referral/style.scss" />
+        <option value="$PROJECT_DIR$/app/components/TransactionsByBitCoin/index.js" />
+        <option value="$PROJECT_DIR$/app/components/WalletActivityTable/index.js" />
+        <option value="$PROJECT_DIR$/server/port.js" />
+        <option value="$PROJECT_DIR$/docs/css/common.scss" />
+        <option value="$PROJECT_DIR$/app/containers/LandingPage/featuredContent.js" />
+        <option value="$PROJECT_DIR$/app/containers/LandingPage/pricingTable.js" />
+        <option value="$PROJECT_DIR$/app/containers/LandingPage/footerMenu.js" />
+        <option value="$PROJECT_DIR$/app/components/ForgotPasswordPage/index.js" />
+        <option value="$PROJECT_DIR$/app/components/ConfirmCodePage/index.js" />
+        <option value="$PROJECT_DIR$/app/components/SignupPage/account.scss" />
+        <option value="$PROJECT_DIR$/app/containers/_PrivateRoute/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/Header/style.scss" />
+        <option value="$PROJECT_DIR$/app/components/LoginPage/index.js" />
+        <option value="$PROJECT_DIR$/app/components/SignupPage/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/Referral/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/__Routes/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/Header/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/App/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWalletDeposite/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/SingleWalletWithdraw/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/BuyCoin/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/MyWallet/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/EditProfile/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/PhoneVarification/index.js" />
+        <option value="$PROJECT_DIR$/app/containers/LandingPage/landing.scss" />
+        <option value="$PROJECT_DIR$/app/containers/LandingPage/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="673" />
+    <option name="height" value="520" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="PhoneVarification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crypto_wallet_product_reactjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crypto_wallet_product_reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\REACT\crypto_wallet_product_reactjs\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="E:\REACT\crypto_wallet_product_reactjs\node_modules\stylelint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\REACT\crypto_wallet_product_reactjs\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b64720e-9065-4903-af47-41638b54633e" name="Default Changelist" comment="" />
+      <changelist id="dfc3086a-15f9-4aae-b1f9-dacb36cbe012" name="tempdddd" comment="will be ingore" />
+      <created>1557309823807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557309823807</updated>
+      <workItem from="1557309831480" duration="607000" />
+      <workItem from="1557311099526" duration="2469000" />
+      <workItem from="1557374972174" duration="22604000" />
+      <workItem from="1557460667161" duration="24179000" />
+      <workItem from="1557719189039" duration="19246000" />
+      <workItem from="1557742732007" duration="599000" />
+      <workItem from="1557746475091" duration="2429000" />
+      <workItem from="1557807309534" duration="15400000" />
+      <workItem from="1557829296456" duration="2517000" />
+      <workItem from="1557892689724" duration="5791000" />
+      <workItem from="1557900757778" duration="7528000" />
+      <workItem from="1559217314496" duration="141000" />
+      <workItem from="1559541528456" duration="190000" />
+      <workItem from="1560752749556" duration="629000" />
+      <workItem from="1560763543851" duration="56000" />
+      <workItem from="1560778071281" duration="1655000" />
+      <workItem from="1563884693720" duration="893000" />
+      <workItem from="1564124720460" duration="313000" />
+      <workItem from="1567583610627" duration="6790000" />
+      <workItem from="1567661051440" duration="21356000" />
+      <workItem from="1567746927228" duration="22356000" />
+      <workItem from="1568007948535" duration="2268000" />
+    </task>
+    <task id="LOCAL-00001" summary="FIX; Update UI for Transaction">
+      <created>1557313557588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557313557588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FIX; Make Address field readonly&#10;because it is not changeable">
+      <created>1557375403618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557375403619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD: Added My wallet&#10;complete main view&#10;added add wallet modal">
+      <created>1557382551624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557382551624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADD: Added MoveCoin Modal">
+      <created>1557391521315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557391521315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADD: Update/Add Pass matching validation">
+      <created>1557394285933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557394285933</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ADD: Added Single wallet view component&#10;Fix props passing issue and complete main structure">
+      <created>1557462711712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557462711712</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FIX: again add event for preventDefualt">
+      <created>1557463071144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557463071144</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD: Added Single Wallet deposit">
+      <created>1557467427558</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557467427558</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD: Complete Single Wallet Withdraw Component">
+      <created>1557472072554</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557472072554</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD: Added Validation on Single wallet withdraw form">
+      <created>1557475660329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557475660329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ADD: Complete My Wallet Component">
+      <created>1557482185372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557482185372</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ADD: Added SingleWallet Activity component">
+      <created>1557482217632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557482217632</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ADD: Added Wallet Activity Table component">
+      <created>1557482237813</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557482237813</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ADD: Settings">
+      <created>1557486690680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557486690680</updated>
+    </task>
+    <task id="LOCAL-00015" summary="FIX: Settings Component Compete">
+      <created>1557723391128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557723391128</updated>
+    </task>
+    <task id="LOCAL-00016" summary="FIX: Check Responsive for Header and footer">
+      <created>1557731915943</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557731915943</updated>
+    </task>
+    <task id="LOCAL-00017" summary="FIX: Added multi email feature">
+      <created>1557748765762</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557748765762</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ADD: Complete My Referral Component">
+      <created>1557811180439</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557811180439</updated>
+    </task>
+    <task id="LOCAL-00019" summary="FIX: Chnage hardcoded table row data for better view">
+      <created>1557811776563</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1557811776563</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ADD: Added pie chart on dashboard">
+      <created>1557816545408</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557816545408</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ADD: Added bar chart on dashboard">
+      <created>1557830787184</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557830787184</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ADD: Added deposit bar">
+      <created>1557831579692</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557831579692</updated>
+    </task>
+    <task id="LOCAL-00023" summary="checking responsive">
+      <created>1567606850172</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1567606850172</updated>
+    </task>
+    <task id="LOCAL-00024" summary="checking responsive">
+      <created>1567606860236</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1567606860236</updated>
+    </task>
+    <task id="LOCAL-00025" summary="delete boilerplate readme file">
+      <created>1567607011592</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1567607011592</updated>
+    </task>
+    <task id="LOCAL-00026" summary="delete boilerplate readme file">
+      <created>1567607145495</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1567607145495</updated>
+    </task>
+    <task id="LOCAL-00027" summary="responsive done till my wallet">
+      <created>1567664913075</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1567664913075</updated>
+    </task>
+    <task id="LOCAL-00028" summary="responsive complete">
+      <created>1567675183646</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1567675183646</updated>
+    </task>
+    <task id="LOCAL-00029" summary="profile dropdown outside click issue solved">
+      <created>1567676010976</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1567676010977</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update header responsive design">
+      <created>1567679939863</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1567679939863</updated>
+    </task>
+    <task id="LOCAL-00031" summary="change port into 5000">
+      <created>1567680673102</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1567680673102</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fixed footer links&#10;increase wallete item">
+      <created>1567684363607</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1567684363607</updated>
+    </task>
+    <task id="LOCAL-00033" summary="change title">
+      <created>1567685609743</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1567685609743</updated>
+    </task>
+    <task id="LOCAL-00034" summary="referral responsive issue solve">
+      <created>1567690475639</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567690475639</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add dateTd fixed width class for table td">
+      <created>1567692496818</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1567692496818</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update port into 3005">
+      <created>1567747303065</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1567747303065</updated>
+    </task>
+    <task id="LOCAL-00037" summary="landing page design done">
+      <created>1567764487921</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1567764487922</updated>
+    </task>
+    <task id="LOCAL-00038" summary="cookie added">
+      <created>1567774206855</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1567774206855</updated>
+    </task>
+    <task id="LOCAL-00039" summary="adding toaster validation message">
+      <created>1567778430436</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1567778430436</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2979415" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ADD: Added Wallet Activity Table component" />
+    <MESSAGE value="ADD: Settings" />
+    <MESSAGE value="FIX: Settings Component Compete" />
+    <MESSAGE value="FIX: Check Responsive for Header and footer" />
+    <MESSAGE value="FIX: Added multi email feature" />
+    <MESSAGE value="ADD: Complete My Referral Component" />
+    <MESSAGE value="FIX: Chnage hardcoded table row data for better view" />
+    <MESSAGE value="ADD: Added pie chart on dashboard" />
+    <MESSAGE value="ADD: Added bar chart on dashboard" />
+    <MESSAGE value="ADD: Added deposit bar" />
+    <MESSAGE value="checking responsive" />
+    <MESSAGE value="delete boilerplate readme file" />
+    <MESSAGE value="responsive done till my wallet" />
+    <MESSAGE value="responsive complete" />
+    <MESSAGE value="profile dropdown outside click issue solved" />
+    <MESSAGE value="update header responsive design" />
+    <MESSAGE value="change port into 5000" />
+    <MESSAGE value="fixed footer links&#10;increase wallete item" />
+    <MESSAGE value="change title" />
+    <MESSAGE value="referral responsive issue solve" />
+    <MESSAGE value="add dateTd fixed width class for table td" />
+    <MESSAGE value="update port into 3005" />
+    <MESSAGE value="landing page design done" />
+    <MESSAGE value="cookie added" />
+    <MESSAGE value="adding toaster validation message" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding toaster validation message" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/containers/MyWallet/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWalletActivity/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWalletActivity/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="134" column="31" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
+          <caret line="129" column="31" selection-start-line="129" selection-start-column="31" selection-end-line="129" selection-end-column="31" />
+          <folding>
+            <element signature="e#39#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/RessetPassword/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="243" column="57" lean-forward="true" selection-start-line="243" selection-start-column="57" selection-end-line="243" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/MyProfile/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/EditProfile/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Profile/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/IdVarification/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="136" column="27" selection-start-line="136" selection-start-column="27" selection-end-line="136" selection-end-column="27" />
+          <caret line="120" column="27" selection-start-line="120" selection-start-column="27" selection-end-line="120" selection-end-column="27" />
+          <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/ActivityLog/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Settings/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="223" column="25" lean-forward="true" selection-start-line="223" selection-start-column="25" selection-end-line="223" selection-end-column="25" />
+          <folding>
+            <element signature="e#27#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Settings/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Header/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/BreadCrumbs/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#135#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/SubmitIdCard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWallet/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWalletDeposite/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TransactionsByBitCoin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/BuyCoin/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="179" column="39" selection-start-line="179" selection-start-column="39" selection-end-line="179" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Referral/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/port.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/WalletActivityTable/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="e#162#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/BuyCoinByQr/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="257" column="12" lean-forward="true" selection-start-line="257" selection-start-column="12" selection-end-line="257" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/LandingPage/featuredContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/LandingPage/pricingTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/LandingPage/footerMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/SignupPage/account.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/LoginPage/Loadable.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/_PrivateRoute/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Header/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="105" column="12" lean-forward="true" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/SignupPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="152" column="16" lean-forward="true" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/LoginPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="122" column="4" lean-forward="true" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Referral/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1007">
+          <caret line="74" column="54" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+          <folding>
+            <element signature="e#27#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/__Routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#95#156#0" expanded="true" />
+            <element signature="e#234#294#0" expanded="true" />
+            <element signature="e#387#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+          <folding>
+            <element signature="e#25#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWalletDeposite/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
+          <folding>
+            <element signature="e#39#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <element signature="e#22#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWalletWithdraw/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+          <caret line="73" column="46" lean-forward="true" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+          <caret line="70" column="48" lean-forward="true" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/SingleWallet/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="93" column="10" lean-forward="true" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+          <folding>
+            <element signature="e#31#57#0" expanded="true" />
+            <element signature="e#909#979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/BuyCoin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="193" column="5" lean-forward="true" selection-start-line="193" selection-start-column="5" selection-end-line="193" selection-end-column="5" />
+          <folding>
+            <element signature="e#26#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AddWallet/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/MyWallet/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="207" column="27" lean-forward="true" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="27" />
+          <folding>
+            <element signature="e#27#53#0" expanded="true" />
+            <element signature="e#1013#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Profile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/EditProfile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="146" column="23" lean-forward="true" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/PhoneVarification/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+          <folding>
+            <element signature="e#36#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/LandingPage/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="461" lean-forward="true" selection-start-line="461" selection-end-line="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/LandingPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="129" column="19" lean-forward="true" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+          <folding>
+            <element signature="e#30#81#0" expanded="true" />
+            <element signature="e#726#771#0" expanded="true" />
+            <element signature="e#2118#2171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
